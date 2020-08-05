@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/app/topic/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/topic/TopicController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/app/topic/TopicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/topic/TopicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/topic/TopicController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/topic/TopicController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/topic/TopicService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/topic/TopicService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,22 +91,22 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="428" y="598" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/625.1463.1440.839/0.23.2560.1417@0.23.2560.1417" timestamp="1596531196758" />
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1596595639346">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom" timestamp="1596598699479">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.bottom/625.1463.1440.839/0.23.2560.1417@0.23.2560.1417" timestamp="1596595639346" />
-    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1596595639345">
+    <state width="1238" height="408" key="GridCell.Tab.0.bottom/625.1463.1440.839/0.23.2560.1417@0.23.2560.1417" timestamp="1596598699479" />
+    <state width="1238" height="408" key="GridCell.Tab.0.center" timestamp="1596598699478">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.center/625.1463.1440.839/0.23.2560.1417@0.23.2560.1417" timestamp="1596595639345" />
-    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1596595639343">
+    <state width="1238" height="408" key="GridCell.Tab.0.center/625.1463.1440.839/0.23.2560.1417@0.23.2560.1417" timestamp="1596598699478" />
+    <state width="1238" height="408" key="GridCell.Tab.0.left" timestamp="1596598699477">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.left/625.1463.1440.839/0.23.2560.1417@0.23.2560.1417" timestamp="1596595639343" />
-    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1596595639345">
+    <state width="1238" height="408" key="GridCell.Tab.0.left/625.1463.1440.839/0.23.2560.1417@0.23.2560.1417" timestamp="1596598699477" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right" timestamp="1596598699478">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state width="1238" height="408" key="GridCell.Tab.0.right/625.1463.1440.839/0.23.2560.1417@0.23.2560.1417" timestamp="1596595639345" />
+    <state width="1238" height="408" key="GridCell.Tab.0.right/625.1463.1440.839/0.23.2560.1417@0.23.2560.1417" timestamp="1596598699478" />
     <state x="441" y="521" key="chooseDestDirectoryDialog" timestamp="1596528494309">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
